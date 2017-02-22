@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git push origin master.
 Creating a new branch is quick & simple.
+Add merge.
