@@ -6,5 +6,3 @@ Git push origin master.
 Creating a new branch is quick & simple.
 Add merge.
 zhangshaokun
-D.
-E/
